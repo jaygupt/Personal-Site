@@ -100,5 +100,15 @@ h3 {
 }
 
 #touch {
-  margin-bottom: 10%; 
+  margin-bottom: 10%;
+}
+
+footer {
+  padding: 1.5%;
+  margin-top: 5%;
+  background-color: #66BFBF;
+}
+
+footer p {
+  color: #EAF6F6;
 }
