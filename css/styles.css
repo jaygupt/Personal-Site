@@ -16,6 +16,10 @@ h2 {
   color: #66BFBF;
 }
 
+h3 {
+  color: #11999E;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -65,7 +69,7 @@ h2 {
   margin: 5% auto;
 }
 
-.skill-header {
+.header {
   margin: 5% auto;
 }
 
@@ -73,10 +77,6 @@ h2 {
   text-align: left;
   width: 40%;
   margin: 2.5% auto;
-}
-
-.skill h3 {
-  color: #11999E;
 }
 
 .skill-image {
@@ -90,5 +90,15 @@ h2 {
 }
 
 .writing {
-  float: right; 
+  float: right;
+  margin-left: 20px;
+}
+
+.contact-div {
+  width: 25%;
+  margin: 0 auto;
+}
+
+#touch {
+  margin-bottom: 10%; 
 }
