@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-size: 2rem;
   font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
 }
 
 .pro {
@@ -24,6 +25,10 @@ h2 {
   color: #66BFBF;
 }
 
+.cloud {
+  width: 8.5%;
+}
+
 .top-cloud {
   position: relative;
   left: 16%;
@@ -33,4 +38,30 @@ h2 {
 .bottom-cloud {
   position: relative;
   right: 15%;
+}
+
+.about-me {
+  margin-top: 2.5%;
+  width: 25%;
+  margin: 2.5% auto 0 auto;
+}
+
+.pic-of-jay {
+  width: 205px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.paragraphs {
+  font-family: 'Arvo', serif;
+  line-height: 2;
+  margin-bottom: 20%;
+}
+
+.dots {
+  color: #EAF6F6;
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 15%;
+  margin: 0 auto;
 }
