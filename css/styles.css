@@ -64,3 +64,31 @@ h2 {
   width: 15%;
   margin: 5% auto;
 }
+
+.skill-header {
+  margin: 5% auto;
+}
+
+.skill {
+  text-align: left;
+  width: 40%;
+  margin: 2.5% auto;
+}
+
+.skill h3 {
+  color: #11999E;
+}
+
+.skill-image {
+  float: left;
+  width: 25%;
+  height: 25%;
+}
+
+.computer {
+  margin-right: 30px;
+}
+
+.writing {
+  float: right; 
+}
